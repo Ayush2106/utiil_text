@@ -1,1 +1,1 @@
-
+A solution for converting the content The purpose of this website is to convert the content (Case Converter) with just one click including: ⚫ Convert content into uppercase and lower case, removing extra spaces and copying whole content Toggle mode with different background colours according to users choice Count the number of characters, word, sentences, paragraphs etc. Tech: React, CSS, Javascript (Aug, 22)
